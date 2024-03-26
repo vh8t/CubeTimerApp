@@ -44,7 +44,7 @@ sudo pacman -S sfml
 brew install sfml
 ```
 
-- ** Without Homebrew**:
+- **Without Homebrew**:
   - Download SFML from https://www.sfml-dev.org/download.php
   - Extract he downloaded file.
   - Move the extracted folder to location like `/usr/local/` or `/opt/`
