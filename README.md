@@ -12,7 +12,7 @@ CubeTimer is a simple timer application made in C++ using SFML library to time s
 
 1. Clone this reposiory:
 ```sh
-git clone https://github.com/vh8t/cubetimer_app
+git clone [https://github.com/vh8t/cubetimer_app](https://github.com/vh8t/CubeTimerApp.git)
 ```
 
 2. Install SFML library
